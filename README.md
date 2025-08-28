@@ -43,9 +43,9 @@ Vite (build tool)
 
 bash
 
-git clone https://github.com/braz-bogdan156/dropdownBuilder_frontend
+git clone https://github.com/braz-bogdan156/DropDown
 
-cd dropdownBuilder_frontend
+cd dropdown-demo
 
 npm install
 
