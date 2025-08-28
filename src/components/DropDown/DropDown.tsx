@@ -1,4 +1,4 @@
-import styles from "./Dropdown.module.css";
+import styles from "./DropDown.module.css";
 import {DropdownOption, DropdownProps } from "../../types/types";
 import { DropdownButton } from "../DropDownButton/DropDownButton";
 import { DropdownList } from "../DropDownList/DropDownList";
