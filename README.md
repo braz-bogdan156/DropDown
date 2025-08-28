@@ -55,6 +55,6 @@ Frontend will run at: http://localhost:5173
 
 🔗 Links
 
-GitHub repository: [insert your link]
+GitHub repository: https://github.com/braz-bogdan156/DropDown
 
 Deployment: [insert your link]
