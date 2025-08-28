@@ -23,11 +23,12 @@ Dropdown with async search
 
 Custom option and selected item rendering
 
-📦 Project: Dropdown Builder – Frontend
+📦 Project: Dropdown – Frontend
 🚀 Overview
 Reusable dropdown component built with React + TypeScript. Supports custom rendering, async search, and full keyboard accessibility.
 
-🛠 Tech Stack
+🛠 Tech Stack:
+
 React.js + TypeScript
 
 CSS Modules
@@ -39,14 +40,21 @@ Custom hooks
 Vite (build tool)
 
 ⚙️ Setup & Run
+
 bash
+
 git clone https://github.com/braz-bogdan156/dropdownBuilder_frontend
+
 cd dropdownBuilder_frontend
+
 npm install
+
 npm run dev
+
 Frontend will run at: http://localhost:5173
 
 🔗 Links
+
 GitHub repository: [insert your link]
 
 Deployment: [insert your link]
