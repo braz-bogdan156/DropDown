@@ -57,4 +57,4 @@ Frontend will run at: http://localhost:5173
 
 GitHub repository: https://github.com/braz-bogdan156/DropDown
 
-Deployment: [insert your link]
+Deployment: drop-down-roan-one.vercel.app
